@@ -97,4 +97,8 @@
     .login-input{
         width: 100%;
     }
+
+    .login-form{
+        padding:0 10px;
+    }
 }
